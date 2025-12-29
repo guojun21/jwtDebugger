@@ -26,3 +26,11 @@ yarn-error.log*
 *.swp
 *.swo
 *~
+node_modules/
+dist/
+build/
+*.log
+__pycache__/
+*.pyc
+.vscode/
+.idea/
